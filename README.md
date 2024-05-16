@@ -30,6 +30,10 @@ Acessar o conteúdo padrão do Laravel
 http://127.0.0.1:8000/
 ```
 
+## Funcionalidades
+- login e logout
+- cadastro de provedor
+
 ## Ideias futuras para o projeto
 ### Rotas 
 - fazer grupos de rotas para agilizar o processo.

@@ -12,7 +12,7 @@ composer install
 
 
 Duplicar o arquivo ".env.example" e renomear para ".env"
-Alterar no arquivo .env o nome da base de dados para "celke". Exemplo: DB_DATABASE=celke
+Alterar no arquivo .env o nome da base de dados para "LaravelTest". Exemplo: DB_DATABASE=LaravelTest
 
 
 Executar as migration

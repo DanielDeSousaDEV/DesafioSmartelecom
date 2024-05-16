@@ -1,7 +1,7 @@
 # DesafioSmartelecom
 ## Requisitos
 
-* PHP 8.2 ou superior
+* PHP 8.1 ou superior
 * Composer
 
 ## Como rodar o projeto baixado

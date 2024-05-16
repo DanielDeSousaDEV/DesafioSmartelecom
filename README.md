@@ -6,17 +6,17 @@
 * Git
 
 ## Como rodar o projeto baixado
-Descompactar o arquivo.zip
+- Descompactar o arquivo.zip
 ```
 unzip DesafioSmart.zip
 ```
 
-Entrar na pasta do arquivo descompactado 
+- Entrar na pasta do arquivo descompactado 
 ```
 cd DesafioSmart
 ```
 
-Instalar as dependências do PHP
+- Instalar as dependências do PHP
 ```
 composer install
 ```
@@ -25,17 +25,17 @@ Duplicar o arquivo ".env.example" e renomear para ".env"
 Alterar no arquivo .env o nome da base de dados para "LaravelTest". Exemplo: DB_DATABASE=LaravelTest
 
 
-Executar as migration
+- Executar as migration
 ```
 php artisan migrate
 ```
 
-Iniciar o projeto criado com Laravel
+- Iniciar o projeto criado com Laravel
 ```
 php artisan serve
 ```
 
-Acessar o conteúdo padrão do Laravel
+- Acessar o conteúdo padrão do Laravel
 ```
 http://127.0.0.1:8000/
 ```

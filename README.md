@@ -20,19 +20,9 @@ Executar as migration
 php artisan migrate
 ```
 
-Executar as seed
-```
-php artisan db:seed
-```
-
 Iniciar o projeto criado com Laravel
 ```
 php artisan serve
-```
-
-Executar as bibliotecas Node.js
-```
-npm run dev
 ```
 
 Acessar o conteúdo padrão do Laravel

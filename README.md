@@ -10,7 +10,6 @@ Instalar as dependências do PHP
 composer install
 ```
 
-
 Duplicar o arquivo ".env.example" e renomear para ".env"
 Alterar no arquivo .env o nome da base de dados para "LaravelTest". Exemplo: DB_DATABASE=LaravelTest
 
@@ -42,8 +41,8 @@ http://127.0.0.1:8000/
 
 ### Views
 - adicionar um bate para definir quando renderizar alguns elementos das Views.
-- customizar as páginas de erros.
-- tentar ultilizar a diretiva yield, extends e section para ultilizar de forma melhor a nav-bar.
+- customizar mais páginas de erros.
+- ultilizar a diretiva yield, extends e section para ultilizar de forma melhor a nav-bar.
 - tentar adicionar um dashboard renderizado com base no banco de dados
 
 ### Controllers

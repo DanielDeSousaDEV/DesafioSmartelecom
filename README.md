@@ -41,9 +41,9 @@ http://127.0.0.1:8000/
 ```
 
 ## Funcionalidades
-- login e logout
-- cadastro de provedor
-- apenas visualização dos planos pelo seu respectivo provedor
+- login e logout.//rota showLogin, login e logout
+- cadastro de provedor.//rota cadastar
+- apenas visualização dos planos pelo seu respectivo provedor.//rota tabela
 
 ## Ideias futuras para o projeto
 ### Rotas 

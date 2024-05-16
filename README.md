@@ -12,9 +12,6 @@ git clone https://github.com/DanielDeSousaDEV/DesafioSmartelecom
 ```
 
 - Descompactar o arquivo.zip
-```bash
-unzip DesafioSmart.zip
-```
 
 - Entrar na pasta do arquivo descompactado 
 ```bash

@@ -8,7 +8,7 @@
 ## Como rodar o projeto baixado
 - Clone o repositório
 ```bash
-git clone https://github.com/danieldesousaDEV/DesafioSmart
+git clone https://github.com/DanielDeSousaDEV/DesafioSmart
 ```
 
 - Descompactar o arquivo.zip

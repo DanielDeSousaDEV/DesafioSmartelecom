@@ -21,8 +21,8 @@ cd DesafioSmart
 composer install
 ```
 
-Duplicar o arquivo ".env.example" e renomear para ".env"
-Alterar no arquivo .env o nome da base de dados para "LaravelTest". Exemplo: DB_DATABASE=LaravelTest
+- Duplicar o arquivo ".env.example" e renomear para ".env"
+- Alterar no arquivo .env as informações de acordo com a sua máquina como por exemplo o nome do banco de dados para "LaravelTest". Exemplo: DB_DATABASE=LaravelTest
 
 
 - Executar as migration

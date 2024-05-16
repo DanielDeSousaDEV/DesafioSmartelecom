@@ -38,7 +38,7 @@ http://127.0.0.1:8000/
 ## Ideias futuras para o projeto
 ### Rotas 
 - fazer grupos de rotas para agilizar o processo.
-- adicionar um middleware para determinar rotas que poderiam ser acessadas pelos admin.
+- adicionar um middleware para determinar rotas que poderiam ser acessadas somente pelos admin.
 
 ### Views
 - adicionar um bate para definir quando renderizar alguns elementos das Views.

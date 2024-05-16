@@ -7,17 +7,17 @@
 
 ## Como rodar o projeto baixado
 - Descompactar o arquivo.zip
-```
+```bash
 unzip DesafioSmart.zip
 ```
 
 - Entrar na pasta do arquivo descompactado 
-```
+```bash
 cd DesafioSmart
 ```
 
 - Instalar as dependências do PHP
-```
+```bash
 composer install
 ```
 
@@ -26,16 +26,16 @@ composer install
 
 
 - Executar as migration
-```
+```bash
 php artisan migrate
 ```
 
 - Iniciar o projeto criado com Laravel
-```
+```bash
 php artisan serve
 ```
 
-- Acessar o conteúdo padrão do Laravel
+- Acessar o conteúdo padrão do Laravel no navegador
 ```
 http://127.0.0.1:8000/
 ```

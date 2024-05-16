@@ -11,6 +11,11 @@ Descompactar o arquivo.zip
 unzip DesafioSmart.zip
 ```
 
+Entrar na pasta do arquivo descompactado 
+```
+cd DesafioSmart
+```
+
 Instalar as dependências do PHP
 ```
 composer install

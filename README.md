@@ -30,4 +30,12 @@ Acessar o conteúdo padrão do Laravel
 http://127.0.0.1:8000/
 ```
 
-## 
+## Ideias futuras para o projeto
+- adicionar o clud básico para que cada provedor pudesse administrar seus planos
+- adicionar um bate para definir quando renderizar alguns elementos das Views
+- adicionar um middleware para determinar rotas que poderiam ser acessadas pelos admin
+- fazer grupos de rotas para agilizar o processo
+- customizar os erro que são retornandos pelo validade()
+- customizar as páginas de erros
+- tentar ultilizar a diretiva yield, extends e section para ultilizar de forma melhor a nav-bar
+- tentar adicionar um dashboard renderizado com base no banco de dados 

@@ -50,4 +50,4 @@ http://127.0.0.1:8000/
 
 ### Lógica do sistema
 - adicionar o clud básico para que cada provedor pudesse administrar seus planos.
- 
+- a lógica seria a mesma para admins porém eles poderiam ver todo os usuários cadastrar outros admins e administrar todos os planos e a área deles seriam protegida com Middlewares e Gates.

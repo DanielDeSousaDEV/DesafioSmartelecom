@@ -33,6 +33,7 @@ http://127.0.0.1:8000/
 ## Funcionalidades
 - login e logout
 - cadastro de provedor
+- apenas visualização dos planos pelo seu respectivo provedor
 
 ## Ideias futuras para o projeto
 ### Rotas 

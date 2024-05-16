@@ -3,8 +3,14 @@
 
 * PHP 8.1 ou superior
 * Composer
+* Git
 
 ## Como rodar o projeto baixado
+Descompactar o arquivo.zip
+```
+unzip DesafioSmart.zip
+```
+
 Instalar as dependências do PHP
 ```
 composer install

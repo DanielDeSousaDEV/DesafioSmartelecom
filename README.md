@@ -67,3 +67,5 @@ http://127.0.0.1:8000/
 ### Lógica do sistema
 - adicionar o crud básico para que cada provedor pudesse administrar seus planos.
 - os admins seguiriam a mema lógica dos provedores porém eles poderiam ver todo os usuários cadastrar outros admins e administrar todos os planos e a área deles seriam protegida com Middlewares e Gates.
+
+<!-- me contrata pfvr fih de manganbae -->

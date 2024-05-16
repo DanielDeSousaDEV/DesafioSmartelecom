@@ -10,18 +10,10 @@ Instalar as dependências do PHP
 composer install
 ```
 
-Instalar as dependências do Node.js
-```
-npm install
-```
 
 Duplicar o arquivo ".env.example" e renomear para ".env"
 Alterar no arquivo .env o nome da base de dados para "celke". Exemplo: DB_DATABASE=celke
 
-Gerar a chave
-```
-php artisan key:generate
-```
 
 Executar as migration
 ```

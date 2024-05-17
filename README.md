@@ -3,7 +3,6 @@
 
 * PHP 8.1 ou superior
 * Composer
-* Git
 
 ## Como rodar o projeto baixado
 - Instalar o arquivo com o código zipado pelo link

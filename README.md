@@ -6,9 +6,9 @@
 * Git
 
 ## Como rodar o projeto baixado
-- Clone o repositório
+- Instalar o arquivo com o código zipado pelo link
 ```bash
-git clone https://github.com/DanielDeSousaDEV/DesafioSmartelecom
+https://drive.google.com/file/d/1-djgv9nehLEIfAZScyKOf_khi70PCFaG/view?usp=drivesdk
 ```
 
 - Descompactar o arquivo.zip

@@ -8,7 +8,7 @@
 ## Como rodar o projeto baixado
 - Instalar o arquivo com o código zipado pelo link
 ```bash
-https://drive.google.com/file/d/1-djgv9nehLEIfAZScyKOf_khi70PCFaG/view?usp=drivesdk
+https://drive.google.com/drive/folders/1-Z12j4FPWB42WXiodH5OzSU5w1nh0ogw
 ```
 
 - Descompactar o arquivo.zip
